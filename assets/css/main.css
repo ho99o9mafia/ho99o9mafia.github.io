@@ -1356,3 +1356,8 @@ input, select, textarea {
 				}
 
 		}
+body {
+  background-color: black;
+  color: #8B0000;
+}
+
